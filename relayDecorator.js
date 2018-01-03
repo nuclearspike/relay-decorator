@@ -1,4 +1,4 @@
-var Relay = require('react-relay');
+var Relay = require('react-relay/classic');
 
 module.exports = function(spec) {
   return function(Component) {
